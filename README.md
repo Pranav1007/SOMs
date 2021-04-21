@@ -30,25 +30,21 @@ With the help of the [MiniSom Library](https://github.com/JustGlowing/minisom) I
 # How to Use the Repo and obtain these Images in your Local Device
 
 - Clone the GitHub repository
-To clone run:
 ```python
 $ git clone git@github.com:Pranav1007/SOMs.git
 ```
 
-- Move to the Project Directory
-To enter run
+- Move to the SOMs Directory
 ```python
 $ cd SOMs
 ```
 
 - All the [requirements](requirements.txt) and dependencies need to be installed. 
-To install run:
 ```python
 $ pip install -r requirements.txt
 ```
 
 - Run the test file now to see the Colour Quantized Image
-To run the file
 ```python
 $ python test.py
 ```
